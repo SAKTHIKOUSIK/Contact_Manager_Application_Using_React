@@ -1,0 +1,17 @@
+ {
+
+X
+
+"rewrites": [
+
+{
+
+"source": "
+
+]
+
+/(.*)",
+
+"destination": "/"}
+
+  }
