@@ -1,17 +1,14 @@
- {
-
-X
+{
 
 "rewrites": [
 
-{
-
-"source": "
+{"source":
 
 ]
 
-/(.*)",
+"/(.*)",
 
-"destination": "/"}
+"destination":
 
-  }
+"/"}
+ }
